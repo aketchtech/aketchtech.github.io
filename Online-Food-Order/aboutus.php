@@ -5,7 +5,7 @@ session_start();
 <html>
 
   <head>
-    <title> About | Le Cafe' </title>
+    <title> Aketchtech | Le Cafe' </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/aboutus.css">
